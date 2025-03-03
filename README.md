@@ -1,3 +1,12 @@
+### 🗓️ 미션 일정
+
+| 단계  | 내용        | 기간                      | PR 링크 |
+|-------|------------|---------------------------|---------|
+| Step1 | 구현       | 2025.02.18 ~ 2025.02.24   | [PR](https://github.com/woowacourse/java-attendance/pull/3) |
+| Step2 | 다시 구현   | 2025.02.24 ~ 2025.03.03   | [PR](https://github.com/woowacourse/java-attendance/pull/102) |
+
+🔗 [미션 회고](https://kjyyjk.tistory.com/373)
+
 # 출석 미션 저장소
 
 ### 프로그램 설명
